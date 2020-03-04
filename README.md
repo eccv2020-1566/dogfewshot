@@ -1,2 +1,2 @@
-# dogfewshot
-on the texture bias for few-shot segmentation
+# On the texture bias for Few-Shot CNN segmentation
+ECCV Submision Paper ID: 1566
